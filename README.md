@@ -1,6 +1,6 @@
 Copyright 2017 - The LineageOS Project
 
-Device configuration for LGE G3 (ATT)
+Device configuration for LGE G3 (Canada)
 =====================================
 
 Basic   | Spec Sheet
