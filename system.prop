@@ -5,3 +5,6 @@ ro.telephony.default_network=9
 
 # Bluetooth
 qcom.bluetooth.soc=smd
+
+#AOKP Device Maintainers
+ro.aokp.maintainer="Mehmet KÖKLÜ (croatan)"
